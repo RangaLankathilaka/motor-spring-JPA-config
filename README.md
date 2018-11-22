@@ -1,1 +1,0 @@
-# motor-spring-JPA-config

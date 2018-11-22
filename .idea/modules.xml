@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Motor-JPA.iml" filepath="$PROJECT_DIR$/Motor-JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJAX with JSON/AJAX with JSON.iml" filepath="$PROJECT_DIR$/AJAX with JSON/AJAX with JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJAX with PHP - 1/AJAX with PHP - 1.iml" filepath="$PROJECT_DIR$/AJAX with PHP - 1/AJAX with PHP - 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJAX with PHP - 2/AJAX with PHP - 2.iml" filepath="$PROJECT_DIR$/AJAX with PHP - 2/AJAX with PHP - 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJAX with PHP - 3/AJAX with PHP - 3.iml" filepath="$PROJECT_DIR$/AJAX with PHP - 3/AJAX with PHP - 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJAX with PHP - 4/AJAX with PHP - 4.iml" filepath="$PROJECT_DIR$/AJAX with PHP - 4/AJAX with PHP - 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AJAX with XML/AJAX with XML.iml" filepath="$PROJECT_DIR$/AJAX with XML/AJAX with XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello AJAX/Hello AJAX.iml" filepath="$PROJECT_DIR$/Hello AJAX/Hello AJAX.iml" />
     </modules>
   </component>
 </project>

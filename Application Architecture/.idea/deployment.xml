@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="Apache Web Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Intellij php/Application Architecture" local="$PROJECT_DIR$" web="/Intellij php/Application Architecture" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

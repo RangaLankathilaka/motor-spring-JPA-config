@@ -1,0 +1,11 @@
+[
+  {
+    "name": "bajee",
+    "location": "kadawatha"
+  },
+  {
+    "name": "ganga",
+    "location": "rathnapura"
+//    "printDetails":"function(){console.log(this.name);}"
+  }
+]

@@ -5,7 +5,13 @@
       <paths name="Apache Web Server">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="deppo/hello-ajax" local="$PROJECT_DIR$/Hello AJAX" web="/deppo/hello-ajax" />
+            <mapping deploy="deppo/ajax-with-xml" local="$PROJECT_DIR$/AJAX with XML" web="/deppo/ajax-with-xml" />
+            <mapping deploy="deppo/ajax-with-json" local="$PROJECT_DIR$/AJAX with JSON" web="/deppo/ajax-with-json" />
+            <mapping deploy="deppo/ajax-with-php-1" local="$PROJECT_DIR$/AJAX with PHP - 1" web="/deppo/ajax-with-php-1" />
+            <mapping deploy="deppo/ajax-with-php-2" local="$PROJECT_DIR$/AJAX with PHP - 2" web="/deppo/ajax-with-php-2" />
+            <mapping deploy="deppo/ajax-with-php-3" local="$PROJECT_DIR$/AJAX with PHP - 3" web="/deppo/ajax-with-php-3" />
+            <mapping deploy="deppo/ajax-with-php-4" local="$PROJECT_DIR$/AJAX with PHP - 4" web="/deppo/ajax-with-php-4" />
           </mappings>
         </serverdata>
       </paths>
